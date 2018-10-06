@@ -1,3 +1,2 @@
-# go-kubernetes-workshop
+# go-sofia
 
-### a repo for the workshop https://github.com/k8s-community/k8s-workshop-eu
